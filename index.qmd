@@ -1,0 +1,36 @@
+---
+title: "Página da disciplina de Reprodutibilidade Científica no R - FURG"
+author: "Bruno Linhares - Professor: Maurício Camargo"
+format: html
+editor: visual
+---
+
+## A partir daqui vamos inserir algumas figuras e links como teste
+
+
+[Clique aqui para ver minha página do researchgate](https://www.researchgate.net/profile/Bruno-Linhares-3)
+
+## Bora plotar alguma coisa 
+
+```{r}
+x <- 1:20               
+n <- length(x)
+a <- 0.2                
+b <- 0.3                
+sigma <- 0.5          
+set.seed(22052023)
+y <- a + b*x + sigma*rnorm(n)
+#
+fake <- data.frame(x,y)
+plot(fake$x, fake$y, main = "Dados Observados e Reta de Regressao",pch=19)
+
+```
+
+Abaixo vamos mostrar o output de 2*2 no R, sem mostrar o código
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+
