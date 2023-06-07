@@ -33,4 +33,4 @@ Abaixo vamos mostrar o output de 2*2 no R, sem mostrar o código
 2 * 2
 ```
 
-
+![Em_Campo](campo.jpg) 
