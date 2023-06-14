@@ -12,7 +12,7 @@ editor: visual
 ```
 
 
-### **Introdução**
+### **Apresentação**
 ::: {.justify}
 * Sou mestre em Oceanografia Biológica pela *Universidade Federal do Rio Grande (PPGOB/FURG)* e bacharel em Ciências Biológicas com ênfase em Biologia Marinha e Costeira pela *Universidade Federal do Rio Grande do Sul (UFRGS)*, em convênio com a *Universidade Estadual do Rio Grande do Sul (UERGS)*. Trabalho com ecologia animal, com enfoque na biologia e conservação de aves marinhas e costeiras e seus habitats. Atualmente sou doutorando do PPGOB/FURG e pesquisador vinculado ao *Laboratório de Aves Aquáticas e Tartarugas Marinhas (LAATM-FURG)*, atuando no *Programa de Monitoramento da Biodiversidade Aquática da Área Ambiental I (PMBA/FEST)*.   
 :::
