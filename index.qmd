@@ -10,7 +10,7 @@ editor: visual
 
 ### **Currículo**
 
-[Produção bibliográfica](pagina_2_bruno.html)               
+[Produção bibliográfica](página_bibliografia_site.html)               
 [Lattes](http://lattes.cnpq.br/560096947699190)
 
  ![Campanha de amostragem em Abrolhos em Março/2023](campo.jpg)          
