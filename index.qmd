@@ -1,16 +1,16 @@
 ---
-title: "Bruno A Linhares (PPGOB)"
+title: "Bruno de Andrade Linhares (PPGOB)"
 Disciplina: "Reprodutibilidade Científica no R - Professor: Maurício Camargo"
 format: html
 editor: visual
 ---
 
-### **Apresentação**
+### **Introdução**
 * Sou mestre em Oceanografia Biológica pela *Universidade Federal do Rio Grande (PPGOB/FURG)* e bacharel em Ciências Biológicas com ênfase em Biologia Marinha e Costeira pela *Universidade Federal do Rio Grande do Sul (UFRGS)*, em convênio com a *Universidade Estadual do Rio Grande do Sul (UERGS)*. Trabalho com ecologia animal, com enfoque na biologia e conservação de aves marinhas e costeiras e seus habitats. Atualmente sou doutorando do PPGOB/FURG e pesquisador vinculado ao *Laboratório de Aves Aquáticas e Tartarugas Marinhas (LAATM-FURG)*, atuando no *Programa de Monitoramento da Biodiversidade Aquática da Área Ambiental I (PMBA/FEST)*.   
 
 ### **Currículo**
 
-[Produção científica](página_bibliografia_site.html)               
+[Produção bibliográfica](página_bibliografia_site.html)               
 [Lattes](http://lattes.cnpq.br/560096947699190)
 
  ![Campanha de amostragem em Abrolhos em Março/2023](campo.jpg)          
