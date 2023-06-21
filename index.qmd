@@ -2,7 +2,7 @@
 title: "Bruno A Linhares (PPGOB)"
 Disciplina: "Reprodutibilidade Científica no R - Professor: Maurício Camargo"
 format: html
-editor: visual
+engine: knitr
 --- 
 
 ```{css, echo = FALSE}
@@ -10,6 +10,8 @@ editor: visual
   text-align: justify !important
 }
 ```
+
+Olá
 
 ### **Apresentação**
 ::: {.justify}
