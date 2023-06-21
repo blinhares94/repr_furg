@@ -21,39 +21,11 @@ editor: visual
 
 [Lattes](http://lattes.cnpq.br/5600969476991900)
 
+[Researchgate](https://www.researchgate.net/profile/Bruno-Linhares-3)
+
+### **Apresentação**
+[Clique aqui para ver uma apresentação sobre meu projeto de tese](apresentacao_projtese.html)  
 
  ![Campanha de amostragem em Abrolhos em Março/2023](campo.jpg)          
 No meu trabalho atual participo de atividades de campo em ambientes marinhos e costeiros ao longo da costa do Espírito Santo e Bahia, como o Arquipélago dos Abrolhos.
-
-$E = mc^{2}$ 
-
-
-## Inserir em outra página
-
-
-[Clique aqui para ver minha página do researchgate](https://www.researchgate.net/profile/Bruno-Linhares-3)
-
-## Bora plotar alguma coisa 
-
-```{r}
-x <- 1:20               
-n <- length(x)
-a <- 0.2                
-b <- 0.3                
-sigma <- 0.5          
-set.seed(22052023)
-y <- a + b*x + sigma*rnorm(n)
-#
-fake <- data.frame(x,y)
-plot(fake$x, fake$y, main = "Dados Observados e Reta de Regressao",pch=19)
-
-```
-
-Abaixo vamos mostrar o output de 2*2 no R, sem mostrar o código
-
-```{r}
-#| echo: false
-2 * 2
-```
-
 

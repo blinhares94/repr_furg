@@ -1,0 +1,72 @@
+---
+format: 
+  revealjs: 
+    theme: moon
+    smaller: true
+    transition: slide
+    slide-number: true
+---
+::: footer
+Quero aprender a colocar o texto mais pra baixo
+:::
+
+## Relações entre o uso do espaço, recursos alimentares e concentrações de contaminantes em aves marinhas e estuarinas 
+
+![](Imagem1_presentacao.jpg){.absolute top=200 right=0 width="600" height="470"}
+
+::: {.column width="40%"}
+
+
+Aluno: **Bruno A Linhares**  - [Lattes](http://lattes.cnpq.br/5600969476991900)
+  Doutorando no Programa de Pós-Graduação em Oceanografia Biológica
+
+Orientador: Adalto Bianchini  
+
+Coorientadores: Leandro Bugoni, Guilherme T Nunes
+
+:::
+
+
+
+## Introdução
+::: columns
+::: {.column width="40%"}
+
+
+- Poluição: resíduos sólidos e químicos (e.g. elementos-traço e POPs)
+  - indústria e mineração
+  - risco à saúde e ao meio-ambiente
+
+:::
+
+::: {.column width="60%"}
+![](Imagem2_presentacao.jpg){.absolute top=0 right=100 width="500" height="370"}
+![](Imagem4_presentacao.jpg){.absolute bottom=0 right=250 width="400" height="300"}
+
+![](Imagem3_presentacao.jpg){.absolute top=250 right=0 width="280" height="250"}
+
+:::
+:::
+
+
+
+## Introdução 
+::: columns
+::: {.column width="45%"}
+
+
+- Animais de topo de cadeia trófica
+  - biomonitores da contaminação 
+
+- O que determina a concentração de contaminantes?
+  - Do que se alimenta (nível trófico)
+  - Onde se alimenta
+  - Fisiologia (espécie, sexo, idade)
+  - Tecido analisado
+
+:::
+::: {.column width="55%"}
+![](Imagem5_presentacao.jpg){.absolute top=0 right=0 width="500" height="350"}
+![](Imagem6_presentacao.jpg){.absolute bottom=0 right=0 width="500" height="330"}
+:::
+:::
