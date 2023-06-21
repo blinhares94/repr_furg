@@ -6,19 +6,28 @@ format:
     transition: slide
     slide-number: true
 ---
+
+## Relações entre o uso do espaço, recursos alimentares e concentrações de contaminantes em aves marinhas e estuarinas 
+
 ::: footer
 Quero aprender a colocar o texto mais pra baixo
 :::
 
-## Relações entre o uso do espaço, recursos alimentares e concentrações de contaminantes em aves marinhas e estuarinas 
-
 ![](Imagem1_presentacao.jpg){.absolute top=200 right=0 width="600" height="470"}
+
+
 
 ::: {.column width="40%"}
 
+<br>
+
+<br>
+
+<br>
 
 Aluno: **Bruno A Linhares**  - [Lattes](http://lattes.cnpq.br/5600969476991900)
   Doutorando no Programa de Pós-Graduação em Oceanografia Biológica
+
 
 Orientador: Adalto Bianchini  
 
@@ -32,6 +41,7 @@ Coorientadores: Leandro Bugoni, Guilherme T Nunes
 ::: columns
 ::: {.column width="40%"}
 
+<br>
 
 - Poluição: resíduos sólidos e químicos (e.g. elementos-traço e POPs)
   - indústria e mineração
@@ -54,6 +64,7 @@ Coorientadores: Leandro Bugoni, Guilherme T Nunes
 ::: columns
 ::: {.column width="45%"}
 
+<br>
 
 - Animais de topo de cadeia trófica
   - biomonitores da contaminação 
