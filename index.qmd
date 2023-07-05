@@ -18,7 +18,7 @@ engine: knitr
 :::
 ### **Currículo**
 
-[Produção bibliográfica](pagina_bibliografia_BL.html)               
+[Prod. bibliográfica](pagina_bibliografia_BL.html)               
 
 [Lattes](http://lattes.cnpq.br/5600969476991900)
 
