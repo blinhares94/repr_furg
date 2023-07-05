@@ -1,19 +1,19 @@
 ---
 format: 
   revealjs: 
-    theme: moon
+    theme: night
     smaller: true
     transition: slide
     slide-number: true
 ---
 
-## Relações entre o uso do espaço, recursos alimentares e concentrações de contaminantes em aves marinhas e estuarinas 
+### **Relações entre o uso do espaço, recursos alimentares e concentrações de contaminantes em aves marinhas e estuarinas** 
 
 ::: footer
 Quero aprender a colocar o texto mais pra baixo
 :::
 
-![](Imagem1_presentacao.jpg){.absolute top=200 right=0 width="600" height="470"}
+![](Imagem1_presentacao.jpg){.absolute top=250 right=0 width="600" height="430"}
 
 
 
@@ -21,13 +21,12 @@ Quero aprender a colocar o texto mais pra baixo
 
 <br>
 
-<br>
 
-<br>
 
-Aluno: **Bruno A Linhares**  - [Lattes](http://lattes.cnpq.br/5600969476991900)
+**Bruno A Linhares**  - [Lattes](http://lattes.cnpq.br/5600969476991900)   
   Doutorando no Programa de Pós-Graduação em Oceanografia Biológica
 
+<br>
 
 Orientador: Adalto Bianchini  
 
@@ -37,7 +36,7 @@ Coorientadores: Leandro Bugoni, Guilherme T Nunes
 
 
 
-## Introdução
+## Introdução {.smaller}
 ::: columns
 ::: {.column width="40%"}
 
@@ -78,6 +77,74 @@ Coorientadores: Leandro Bugoni, Guilherme T Nunes
 :::
 ::: {.column width="55%"}
 ![](Imagem5_presentacao.jpg){.absolute top=0 right=0 width="500" height="350"}
-![](Imagem6_presentacao.jpg){.absolute bottom=0 right=0 width="500" height="330"}
+![](Imagem6_presentacao.jpg){.absolute bottom=10 right=70 width="500" height="330"}
+:::
+:::
+
+## O que precisamos para entender a contaminação?
+::: columns
+::: {.column width="45%"}
+
+
+- Abordagem multidisciplinar
+<br>
+- Aves marinhas
+  - Uso de técnicas para estudo de dieta (regurgitados, isótopos estáveis)
+  - Rastreamento remoto
+<br>
+- Abordagens em amplas escalas ecológicas
+  - Diferentes grupos tróficos
+  - Variação espaçotemporal
+
+:::
+::: {.column width="55%"}
+![](Imagem7_presentacao.jpg){.absolute top=80 right=0 width="350" height="300"}
+![](Imagem8_presentacao.jpg){.absolute top=150 right=380  width="150" height="230"}
+![](Imagem9_presentacao.jpg){.absolute width="250" bottom=80 right=300 height="200"}
+![](Imagem10_presentacao.jpg){.absolute width="250" bottom=30 right=10 height="200"}
+:::
+:::
+
+## Amostragens já realizadas
+
+Programa de Monitoramento da Biodiversidade Aquática na Área Ambiental I (PMBA)
+
+::: columns
+::: {.column width="50%"}
+- Anexo 6: Aves Marinhas
+:::
+
+::: {.column width="50%"}
+- Anexo 1: Ecotoxicologia (aves estuarinas)   
+:::
+
+:::
+
+- Período pré-rompimento (<2015);   
+Período pós-rompimento: Ano 1 (2019), Ano 2, Ano 3, Ano 4, Ano 5    
+
+::: {.column width="50%"}
+
+
+- Abrolhos → 7 campanhas (+2)
+- Coleta de sangue e penas
+	- Elementos-traço (9)
+	- POPs (49 moléculas -  até ano 4)
+	- Isótopos estáveis (C e N)
+- Rastreamento com GPS 
+	- Uso de hábitat
+- Coleta de regurgitos (presas; n=55)
+	- Dieta e biomagnificação
+
+
+:::
+::: {.column width="55%"}
+
+![](Imagem11_presentacao.jpg){.absolute width="400" bottom=10 right=0 height="250"}
+![*Phaethon aethereus*](Imagem12_presentacao.jpg){.absolute width="200" bottom=150 right=350 height="150"}
+
+![*Sula leucogaster*](Imagem13_presentacao.jpg){.absolute width="100" bottom=0 right=300 height="200"}
+
+
 :::
 :::

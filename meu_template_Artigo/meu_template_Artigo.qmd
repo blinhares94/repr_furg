@@ -1,0 +1,120 @@
+---
+title: Relações entre o uso do espaço, recursos alimentares e concentrações de contaminantes em aves marinhas e estuarinas
+subtitle: Projeto de doutorado
+author:
+  - name: Bruno A Linhares
+    email: brunolinhares.bio@gmail.com
+    affiliations: 
+        - id: some-tech
+          name: Universidade Federal do Rio Grande
+          department: Laboratório de Aves Aquáticas e Tartarugas Marinhas
+          address: Av. Itália s/n
+          city: Rio Grande
+          state: Rio Grande do Sul
+    attributes:
+        corresponding: true
+  - name: Adalto Bianchini
+    email: emaildoadalto@gmail.com
+    affiliations:
+        - id: another-u
+          name: Universidade Federal do Rio Grande
+          department: Fisiologia
+          address: Um endereço
+          city: Rio Grande
+          state: Rio Grande do Sul
+          postal-code: Zip código
+    note: |
+      Nota do Adalto
+  - name: Leandro Bugoni
+    email: leandrobugoni@yahoo.com.br
+    affiliations:
+        - ref: another-u
+    note: Yet another author footnote.
+  - name: Derek Zoolander
+    email: derek@example.com
+    affilations:
+        - ref: some-tech
+abstract: |
+  A poluição é uma das principais formas de impacto humano nos ambientes marinhos. Uma ferramenta para entender a dinâmica da contaminação ambiental é através do estudo de animais indicadores, em especial predadores de topo da cadeia trófica.  Aves marinhas possuem estratégias de forrageio que são variáveis no tempo e no espaço, entre diferentes espécies e indivíduos. Assim, o estudo destas variações, concomitante ao da concentração de contaminantes acumulados nos tecidos das aves, pode permitir compreender os fatores biológicos e ambientais que atuam sobre os níveis de contaminação em predadores de topo da cadeia trófica. O presente projeto, portanto, propõe-se a investigar padrões nas concentrações de elementos-traço e poluentes orgânicos persistentes no sangue e penas de aves marinhas e costeiras amostradas no Banco dos Abrolhos e zona costeira adjacente entre 2006 e 2024, em associação a fatores espaciais e temporais relacionados à história natural, hábito alimentar e uso de habitat. Para isso, dados de contaminação serão utilizados em associação a marcadores de dieta e das áreas de forrageio (isótopos estáveis de carbono, nitrogênio, enxofre e aminoácido-específicos, análise de regurgitados espontâneos e rastreamento remoto). Hipotetiza-se que as concentrações de contaminantes estejam relacionadas a variações temporais, intra e interespecíficas na dieta e ao uso de habitat. Os resultados obtidos com este projeto permitirão avaliar o uso de diferentes espécies de aves marinhas como sentinelas da contaminação ambiental aquática, e os principais fatores e marcadores que influenciam os níveis de contaminantes nas aves.
+keywords: 
+  - keyword1
+  - keyword2
+date: last-modified
+bibliography: bibliography.bib
+format:
+  elsevier-pdf:
+    keep-tex: true
+    journal:
+      name: Journal Name
+      formatting: preprint
+      model: 3p
+      cite-style: super
+---
+
+Hello there, lets citate something [@Fortunato2010]
+Please make sure that your manuscript follows the guidelines in the 
+Guide for Authors of the relevant journal. It is not necessary to 
+typeset your manuscript in exactly the same way as an article, 
+unless you are submitting to a camera-ready copy (CRC) journal.
+
+For detailed instructions regarding the elsevier article class, see   <https://www.elsevier.com/authors/policies-and-guidelines/latex-instructions>
+
+# Bibliography styles
+
+Here are two sample references:  @Feynman @Dirac1953888; [@linhares2023].
+
+By default, natbib will be used with the `authoryear` style, set in `classoption` variable in YAML. 
+You can sets extra options with `natbiboptions` variable in YAML header. Example 
+
+```
+natbiboptions: longnamesfirst,angle,semicolon
+```
+
+There are various more specific bibliography styles available at
+<https://support.stmdocs.in/wiki/index.php?title=Model-wise_bibliographic_style_files>. 
+To use one of these, add it in the header using, for example, `biblio-style: model1-num-names`.
+
+## Using CSL 
+
+If `cite-method` is set to `citeproc` in `elsevier_article()`, then pandoc is used for citations instead of `natbib`. In this case, the `csl` option is used to format the references. By default, this template will provide an appropriate style, but alternative `csl` files are available from <https://www.zotero.org/styles?q=elsevier>. These can be downloaded
+and stored locally, or the url can be used as in the example header.
+
+# Equations
+
+Here is an equation:
+$$ 
+  f_{X}(x) = \left(\frac{\alpha}{\beta}\right)
+  \left(\frac{x}{\beta}\right)^{\alpha-1}
+  e^{-\left(\frac{x}{\beta}\right)^{\alpha}}; 
+  \alpha,\beta,x > 0 .
+$$
+
+Inline equations work as well: $\sum_{i = 2}^\infty\{\alpha_i^\beta\}$
+
+# Figures and tables
+
+@fig-meaningless is generated using an R chunk.
+
+```{r}
+#| label: fig-meaningless
+#| fig-cap: A meaningless scatterplot
+#| fig-width: 5
+#| fig-height: 5
+#| fig-align: center
+#| out-width: 50%
+#| echo: false
+plot(runif(25), runif(25))
+```
+
+# Tables coming from R
+
+Tables can also be generated using R chunks, as shown in @tbl-simple example.
+
+```{r}
+#| label: tbl-simple
+#| tbl-cap: Caption centered above table
+#| echo: true
+knitr::kable(head(mtcars)[,1:4])
+```
+
+# References {-}

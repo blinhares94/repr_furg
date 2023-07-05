@@ -1,0 +1,56 @@
+---
+format: 
+  revealjs: 
+    theme: night
+    smaller: true
+    transition: slide
+    slide-number: true
+---
+
+### **Specialist shorebird respond to prey and habitat availability through trophic plasticity** 
+
+::: footer
+Artigo publicado por Gliesh L, Linhares BA, Ozorio CP, Ott PH, Jacoby J, Bugoni L, Nunes GT (2023)
+:::
+
+![](piru_piru_rockyshores.png){.absolute top=250 right=20 width="600" height="430"}
+
+
+![](autores_foodwebs.png){.absolute bottom=430 right=50 width="550" height="100"}
+
+![](logo_foodwebs.jpg){.absolute bottom=0 right=20 width="120" height="140"}
+
+::: {.column width="40%"}
+
+<br>
+
+<br>
+
+
+**Bruno A Linhares**  - [Lattes](http://lattes.cnpq.br/5600969476991900)   
+
+<br>
+
+- Doutorando no Programa de Pós-Graduação em Oceanografia Biológica   
+  
+
+- Segundo autor do artigo
+  
+<br>
+
+
+:::
+
+## Introdução {.smaller}
+::: columns
+::: {.column width="40%"}
+
+<br>
+
+- Especialização ecológica: coexistência
+  - redução da sobreposição de nicho
+
+:::
+
+::: {.column width="60%"}
+![](Imagem2_presentacao.jpg){.absolute top=0 right=100 width="500" height="370"}

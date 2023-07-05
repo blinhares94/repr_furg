@@ -11,26 +11,35 @@ editor: visual
 }
 ```
 
-## Primeiro a equação mais famosa do mundo
-::: {.justify}
 $E = mc^{2}$ 
-:::
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
-## Running Code
+## Inserir em outra página
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+
+## Bora plotar alguma coisa 
 
 ```{r}
-1 + 1
+x <- 1:20               
+n <- length(x)
+a <- 0.2                
+b <- 0.3                
+sigma <- 0.5          
+set.seed(22052023)
+y <- a + b*x + sigma*rnorm(n)
+#
+fake <- data.frame(x,y)
+plot(fake$x, fake$y, main = "Dados Observados e Reta de Regressao",pch=19)
+
 ```
 
-You can add options to executable code like this
+Abaixo vamos mostrar o output de 2*2 no R, sem mostrar o código
 
 ```{r}
 #| echo: false
 2 * 2
 ```
 
-The `echo: false` option disables the printing of code (only output is displayed).
+
+
