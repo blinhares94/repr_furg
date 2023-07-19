@@ -1,9 +1,20 @@
 ---
-title: "Códigos e figuras para a disciplina de Reprodutibilidade Científica no R"
+title: "Codigos e plots para a Tarefa 1"
 author: "Bruno A Linhares"
 format: html
 editor: visual
 ---
+
+# **A table**
+
+| Area    | Sp1  |   Sp2 | Sp3    | Sp4  |
+|---------|------|-------|--------|------|
+| Area 1  | 13   |    12 |   12   |NA    |
+| Area 2  | 230  |   189 |  9     |3     |
+| Area 3  | 1    |     1 |   1    |300   |
+
+
+# **An equation**
 
 ```{css, echo = FALSE}
 .center {
@@ -11,14 +22,10 @@ editor: visual
 }
 ```
 
-$E = mc^{2}$ 
+$E = mc^{2}$
 
 
-## Inserir em outra página
-
-
-
-## Bora plotar alguma coisa 
+# **Code and plot**
 
 ```{r}
 x <- 1:20               
@@ -34,12 +41,9 @@ plot(fake$x, fake$y, main = "Dados Observados e Reta de Regressao",pch=19)
 
 ```
 
-Abaixo vamos mostrar o output de 2*2 no R, sem mostrar o código
+Abaixo vamos mostrar o output de 2\*2 no R, sem mostrar o codigo
 
 ```{r}
 #| echo: false
 2 * 2
 ```
-
-
-
