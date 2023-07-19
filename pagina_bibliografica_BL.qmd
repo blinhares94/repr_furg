@@ -1,33 +1,40 @@
 ---
-title: "Bibliografia publicada"
-author: "Bruno A Linhares"
+title: "Publicações"
 format: html
-editor: visual
+engine: knitr
+theme: default
+mainfont: georgia
+fontcolor: black
+linkcolor: red
+fontsize: 1.1em
+linestretch: 1.7
+backgroundcolor: beige
 ---
 
-Novo artigo na revista FOODWEBS!   
-
-[Clique aqui para saber mais](artigo_foodwebs.html)
-
-Página do researchgate:
-
-[Researchgate](https://www.researchgate.net/profile/Bruno-Linhares-3)
-
-Artigos: 
-git add -A 
-
-* 1. [**Linhares BA**,  Ferreira LCL, Bugoni L (2023) The foraging ecology of invasive black rats (Rattus rattus) differs in two nearby islands in a dry tropical archipelago in Brazil. *Biol Invasions* 25:1211–1226.](https://link.springer.com/article/10.1007/s10530-022-02975-4)               
-        [Arquivo](Linhares2023_BiolInv.pdf)                   
+* [Veja o blog sobre o novo artigo de Gliesch et al. (2023) na FOODWEBS!](artigo_foodwebs.html)
 
 
-* 2. [**Linhares BA**, Bugoni L (2022) Seabirds subsidize terrestrial food webs and coral reefs in a tropical rat‐invaded archipelago. *Ecol Appl* 33:e2733.](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/eap.2733)               
-        [Arquivo](Linhares&Bugoni2022_EcolAppl.pdf)                  
-        
+## Artigos: 
 
-* 3. [**Linhares BA**, Nunes GT, Faria FA, Rosso FM, Bugoni L, Ott PH (2022) American Oystercatcher benefits from a heterogeneous landscape to breed in an urbanized area in southern Brazil. *Urban Ecosyst* 25:87–100.](https://doi.org/10.1007/s11252-021-01123-5)              
-        [Arquivo](Linhares2022_UrbEcosyst.pdf)                 
-        
-        
+*  5.  [Gliesch L, **Linhares BA**, Ozorio CP, Ott PH, Jacoby J, Bugoni L, & Nunes GT (2023). Specialist shorebird respond to prey and habitat availability through trophic plasticity. *Food Webs*, e00300.](https://doi.org/10.1016/j.fooweb.2023.e00300)   
+|   [PDF](Glieshetal_FOODWEBS.pdf)
 
-* 4. [**Linhares BA**, Bordin J, Nunes GT, Ott PH(2021) Breeding biology of the American Oystercatcher *Haematopus palliatus* on a key-site for conservation in southern Brazil. *Ornithol Res* 29:16–21.](https://doi.org/10.1007/s43388-021-00042-5)               
-        [Arquivo](Linhares2021_OrniRes.pdf)
+<br>
+
+*  4.  [**Linhares BA**, Ferreira LCL, Bugoni L (2023) The foraging ecology of invasive black rats (Rattus rattus) differs in two nearby islands in a dry tropical archipelago in Brazil. *Biol Invasions* 25:1211-1226.](https://link.springer.com/article/10.1007/s10530-022-02975-4)   
+|   [PDF](Linhares2023_BiolInv.pdf)
+
+<br>
+
+*  3.  [**Linhares BA**, Bugoni L (2022) Seabirds subsidize terrestrial food webs and coral reefs in a tropical rat‐invaded archipelago. *Ecol Appl* 33:e2733.](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/eap.2733)   
+|   [PDF](Linhares&Bugoni2022_EcolAppl.pdf)
+
+<br>
+
+* 2.  [**Linhares BA**, Nunes GT, Faria FA, Rosso FM, Bugoni L, Ott PH (2022) American Oystercatcher benefits from a heterogeneous landscape to breed in an urbanized area in southern Brazil. *Urban Ecosyst* 25:87--100.](https://doi.org/10.1007/s11252-021-01123-5)   
+|   [PDF](Linhares2022_UrbEcosyst.pdf)
+
+<br>
+
+* 1.  [**Linhares BA**, Bordin J, Nunes GT, Ott PH(2021) Breeding biology of the American Oystercatcher *Haematopus palliatus* on a key-site for conservation in southern Brazil. *Ornithol Res* 29:16--21.](https://doi.org/10.1007/s43388-021-00042-5)   
+|   [PDF](Linhares2021_OrniRes.pdf)
