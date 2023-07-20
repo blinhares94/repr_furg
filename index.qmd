@@ -1,5 +1,5 @@
 ---
-title: "Bruno A. Linhares, MSc"
+title: "Bruno A. Linhares,MSc"
 subtitle: "Biólogo Marinho e Costeiro | Mestre em Oceanografia Biológica"
 format: html
 engine: knitr
@@ -27,7 +27,7 @@ backgroundcolor: beige
 
 <br>
 
- ![Abrolhos em Março/2023](campo.jpg)   
+ ![Em atividade de campo](campo.jpg)   
 
 
 # **Sobre mim**
@@ -47,6 +47,7 @@ backgroundcolor: beige
 <br>
 
 :::
+
 # **Currículo e páginas associadas**
 
 [Artigos publicados](pagina_bibliografica_BL.html)               
@@ -88,7 +89,7 @@ Sobre o artigo escolhido, de Gliesch et al. (2023)
 ## **Tarefa 4**
 Arquivo PDF formatado para a revista XXX.
 
-* [PDF no formato para download](gliesh.pdf)
+* PDF no formato para download
 
 
        
