@@ -1,5 +1,5 @@
 ---
-title: "Bruno A. Linhares, MSc"
+title: "Bruno A. Linhares, M.Sc"
 subtitle: "Biólogo Marinho e Costeiro | Mestre em Oceanografia Biológica"
 format: html
 engine: knitr
