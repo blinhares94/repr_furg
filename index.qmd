@@ -88,7 +88,7 @@ Sobre o artigo escolhido, de Gliesch et al. (2023)
 ## **Tarefa 4**
 Arquivo PDF formatado para a revista XXX.
 
-* PDF no formato para download
+* [PDF no formato para download](gliesh.pdf)
 
 
        

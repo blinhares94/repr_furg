@@ -1,0 +1,102 @@
+---
+title: "Specialist shorebird respond to prey and habitat availability through trophic plasticity"
+format:
+  jasa-pdf:
+    keep-tex: true  
+    journal:
+      blinded: false
+  jasa-html: default
+date: last-modified
+author:
+  - name: Laís Gliesch
+    acknowledgements: | 
+         We are grateful to AP Peppes, CT Bergue, DMM Oliveira, F Caron, G Larre, G Fernandino, G Mendonça, J Gladzik, K Schmidt, L Guaragni, L Pinheiro, L Becker, M Ritter, M Sucunza and PL Martins, for assistance with fieldwork, sample preparation and/or analysis. For further support with fieldwork and sample analysis, we also would like to thank the staff of the Refúgio de Vida Silvestre da Ilha dos Lobos (ICMBio), Parque Nacional da Lagoa do Peixe (ICMBio), Parque Estadual de Itapeva (SEMA/RS), Grupo de Estudos de Mamíferos Aqu´aticos do Rio Grande do Sul (GEMARS), Centro Integrado de An´alises (CIA/FURG), Laborat´orio de Aves Aqu´aticas e Tartarugas Marinhas (LAATM/FURG), and Centro de Estudos Costeiros, Limnol´ogicos e Marinhos (CECLIMAR/UFRGS). The research group Observa Litoral (UERGS/CNPq) also contributed to this study. Mar Pedro Abreu provided the photo of rocky substrate with P. perna. We also thank Centro Nacional de Pesquisa e Conservação de Aves Silvestres (CEMAVE/ICMBio) for providing metal rings_.
+    affiliations:
+      - name: Universidade Federal do Rio Grande do Sul - UFRGS
+        department: Programa de Pós-Graduação em Ecologia
+  - name: Bruno de Andrade Linhares
+    affiliations:
+      - name: Universidade Federal do Rio Grande - FURG
+        department: Programa de Pós-Graduação em Oceanografia Biológica
+      - name: Universidade Federal do Rio Grande - FURG
+        department: Laboratório de Aves Aquáticas e Tartarugas Marinhas - LAATM
+  - name: Carla Penna Ozorio
+    affiliations:
+      - name: Universidade Federal do Rio Grande do Sul - UFRGS
+        department: Centro de Estudos Costeiros, Limnológicos e Marinhos - CECLIMAR
+  - name: Paulo Henrique Ott
+    affiliations:
+      - name: Universidade Estadual do Rio Grande do Sul - UERGS
+      - name: Grupo de Estudos de Mamíferos Aquáticos do Rio Grande do Sul - GEMARS
+  - name: Júlia Jacoby
+    affiliations:
+      - name: Universidade Federal do Rio Grande do Sul - UFRGS
+        department: Centro de Estudos Costeiros, Limnológicos e Marinhos - CECLIMAR
+  - name: Leandro Bugoni
+    affiliations:
+      - name: Universidade Federal do Rio Grande - FURG
+        department: Laboratório de Aves Aquáticas e Tartarugas Marinhas - LAATM
+  - name: Guilherme Tavares Nunes
+    affiliations:
+      - name: Universidade Federal do Rio Grande do Sul - UFRGS
+        department: Programa de Pós-Graduação em Ecologia
+      - name: Universidade Federal do Rio Grande do Sul - UFRGS
+        department: Centro de Estudos Costeiros, Limnológicos e Marinhos - CECLIMAR
+abstract: |
+  Spatiotemporal variations in food availability represent a challenge to the persistence of specialist species. The American oystercatcher (Haematopus palliatus) is a shorebird regarded as a bivalve specialist, although foraging habitats and prey species may vary along its distribution. Here, we studied American oystercatcher breeding in sites with variable landscapes to test the effect of temporal and spatial variations in food availability and dietary aspects. Between 2017 and 2021, we sampled oystercatchers (n = 100) and macroinvertebrates at the mesolitoral zone in five foraging areas in southern Brazil, three composed by sand and rock substrates (mixed), and two by sandy beach only. We obtained biological samples from oystercatchers and macroinvertebrates for carbon (δ13C) and nitrogen (δ15N) stable isotope analysis. In addition, we carried out systematic sampling of macroinvertebrates in sandy beaches at foraging areas to assess prey availability. Main findings showed the oystercatcher diet to be influenced both by the heterogeneity of foraging habitats and temporal fluctuations in availability of food resources. Bivalves contributed ~60% to the diet of oystercatchers, but differences in the preferred bivalve species were detected among areas. In sites with mixed substrates, oystercatchers had a wider isotopic niche, suggesting habitat heterogeneity induced a more varied diet. Finally, we also observed interannual variation in the diet that may be associated with variation in macroinvertebrate availability on sandy beaches, especially for non-bivalve prey. Therefore, both temporal variations in food availability and foraging habitat heterogeneity seem to shape the foraging ecology of oystercatchers in the coastal zone, evidencing trophic plasticity in this specialist shorebird.
+keywords:
+  - American oystercatcher
+  - Benthic macroinvertebrates
+  - Diet
+  - Haematopus palliatus
+  - Stable isotopes
+  - Trophic ecology
+bibliography: bibliography.bib  
+---
+
+## Introduction {#sec-intro}
+
+Specialization promotes diversification and coexistence as it reduces interspecific competition by decreasing niche overlap between species [@chesson2000mechanisms]. Specialist species have a narrow trophic niche, and characteristics which limit them to a particular habitat or food resource [@amundsen1996new]. However, spatiotemporal variations in food availability can influence dietary patterns and even species distribution ([@hughes2000scale]). In this context, intraspecific ability to adjust the diet according to the variability of food resources in time and space has been referred to as trophic plasticity.
+
+
+## Material and methods {#sec-meth}
+
+Fieldwork was carried out on five beaches along a 280 km coastline
+in southern Brazil, from 29o18’S/49o42’W to 31o21’S/51o02’W (@fig-first),
+which are used by oystercatchers as breeding and foraging sites. The
+southern areas, Praia das Cabras and Lagoa do Peixe, are composed by
+sandy substrate only, while the northern sites, Passo de Torres, Praia
+Grande and Itapeva are sandy beaches with the presence of natural or
+artificial rocky substrates adjacent or nearby, such as slabs and jetties, so
+we refer to these beaches as mixed substrate sites. These mixed substrate
+sites also hold additional landscape elements suggested to influence
+oystercatcher diet, such as a rocky island (Ilha dos Lobos) about 2 km
+offshore Praia Grande, which is a marine protected area used by oystercatchers
+for foraging [@linhares2022american]; and also an estuarine
+zone at Lagoa do Peixe, that present suitable foraging environments for
+oystercatchers, such as mudflats and saltmarshes [@fedrizzi2008distribuiccao]. There is also an estuary alongside Praia Grande in the mixed substrate area, but it does not present relevant foraging areas for oystercatchers, given that
+the estuary margins are mostly urbanized. Finally, Praia Grande is an
+urban beach (@cristiano2016evaluation; @linhares2021breeding), Passo de
+Torres is scarcely urbanized nearby, Praia das Cabras is a preserved area
+due to its distance to urban sites, while Itapeva and Lagoa do Peixe are
+formally protected areas, as a State Park and a National Park,
+respectively.
+
+![Breeding sites of the American oystercatcher (Haematopus palliatus) along the southern Brazilian coast. Rocky substrate with Perna perna near to Praia Grande (red arrow); fore dunes and mudflats at Lagoa do Peixe (yellow arrow). Photo: Mar Pedro de Abreu. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)](fig1.png){#fig-first width=5in}
+
+## Results {#sec-verify}
+
+Not sure what will happen here
+
+## Discussion {#sec-conc}
+
+Here we discuss results
+
+## Disclosure statement
+
+No conflicts of interest exist).
+
+## BibTeX 
+
+We encourage you to use BibTeX.
+If you have, please feel free to use the package natbib with any bibliography style you're comfortable with. The .bst file agsm has been included here for your convenience. 
